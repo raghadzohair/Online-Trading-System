@@ -1,0 +1,345 @@
+The LogisticPartner with id : 15001 has been added to the System
+
+The LogisticPartner with id : 15002 has been added to the System
+
+The LogisticPartner with id : 15003 has been added to the System
+
+The LogisticPartner with id : 15004 has been added to the System
+
+The LogisticPartner with id : 15005 has been added to the System
+
+The LogisticPartner with id : 15006 has been added to the System
+
+The LogisticPartner with id : 15007 has been added to the System
+
+The LogisticPartner with id : 15008 has been added to the System
+
+The LogisticPartner with id : 15009 has been added to the System
+
+The LogisticPartner with id : 15010 has been added to the System
+
+The Logistic Partner with id : 15006  already exists
+
+The buyer with id : 17001 has been added to the System
+
+The buyer with id : 17002 has been added to the System
+
+The buyer with id : 17003 has been added to the System
+
+The buyer with id : 17004 has been added to the System
+
+The buyer with id : 17005 has been added to the System
+
+The buyer with id : 17006 has been added to the System
+
+The buyer with id : 17007 has been added to the System
+
+The buyer with id : 17008 has been added to the System
+
+The buyer with id : 17009 has been added to the System
+
+The buyer with id : 17010 has been added to the System
+
+The buyer with id : 17011 has been added to the System
+
+The buyer with id : 17012 has been added to the System
+
+The buyer with id : 17013 has been added to the System
+
+The buyer with id : 17014 has been added to the System
+
+The buyer with id : 17015 has been added to the System
+
+The buyer with id : 17016 has been added to the System
+
+The buyer with id : 17017 has been added to the System
+
+The buyer with id : 17018 has been added to the System
+
+The buyer with id : 17019 has been added to the System
+
+The buyer with id : 17020 has been added to the System
+
+The buyer with id : 17021 has been added to the System
+
+The buyer with id : 17009  already exists
+
+The buyer with id : 17022 has been added to the System
+
+The buyer with id : 17023 has been added to the System
+
+The buyer with id : 17024 has been added to the System
+
+The buyer with id : 17025 has been added to the System
+
+The seller with id : 16001 has been added to the System
+
+The seller with id : 16002 has been added to the System
+
+The seller with id : 16003 has been added to the System
+
+The seller with id : 16004 has been added to the System
+
+The seller with id : 16005 has been added to the System
+
+The seller with id : 16004  already exists
+
+The item : 501 has been added to the System
+
+The item : 505 has been added to the System
+
+The item : 506 has been added to the System
+
+The item : 507 has been added to the System
+
+The item : 502 has been added to the System
+
+The item : 508 has been added to the System
+
+The item : 511 has been added to the System
+
+The item : 512 has been added to the System
+
+The item : 516 has been added to the System
+
+The item : 518 has been added to the System
+
+The item : 520 has been added to the System
+
+The item : 523 has been added to the System
+
+The item : 525 has been added to the System
+
+The item : 524 has been added to the System
+
+The item : 516  already exists
+
+The item : 522 has been added to the System
+
+The item : 519 has been added to the System
+
+The item : 517 has been added to the System
+
+The item : 513 has been added to the System
+
+The item : 514 has been added to the System
+
+The item : 509 has been added to the System
+
+The item : 510 has been added to the System
+
+The item : 515 has been added to the System
+
+The item : 503 has been added to the System
+
+The item : 504 has been added to the System
+
+The item : 521 has been added to the System
+
+The order of buyer with id : 17001 has been initialized with number : 101
+The item with id : 501 has been added to the orderId: 101
+
+The item with id : 505 has been added to the orderId: 101
+
+The item with id : 506 has been added to the orderId: 101
+
+The item with id : 507 has been added to the orderId: 101
+
+The item with id : 501 has been added to the orderId: 101
+
+The order with id 101  has been shipped by the logistic Partner 15001
+
+
+There is no buyer with id : 170455
+The order of buyer with id : 17001 has been initialized with number : 102
+The item with id : 515 has been added to the orderId: 102
+
+The item with id : 503 has been added to the orderId: 102
+
+The order with id 102  has been shipped by the logistic Partner 15002
+
+
+The order of buyer with id : 17001 has been initialized with number : 103
+The item with id : 524 has been added to the orderId: 103
+
+The item with id : 522 has been added to the orderId: 103
+
+The item with id : 517 has been added to the orderId: 103
+
+The order with id 103  has been shipped by the logistic Partner 15009
+
+
+The order of buyer with id : 17018 has been initialized with number : 101
+The item with id : 501 has been added to the orderId: 104
+
+The item with id : 505 has been added to the orderId: 104
+
+The item with id : 506 has been added to the orderId: 104
+
+The item with id : 507 has been added to the orderId: 104
+
+The order with id 104  has been shipped by the logistic Partner 15001
+
+
+The order of buyer with id : 17018 has been initialized with number : 102
+The item with id : 515 has been added to the orderId: 105
+
+The item with id : 503 has been added to the orderId: 105
+
+The order with id 105  has been shipped by the logistic Partner 15002
+
+
+The order of buyer with id : 17018 has been initialized with number : 103
+The order with id 106  has been shipped by the logistic Partner 15009
+The item with id : 524 has been added to the orderId: 106
+
+The item with id : 522 has been added to the orderId: 106
+
+The order with id 106  has been shipped by the logistic Partner 15009
+
+
+The order of buyer with id : 17022 has been initialized with number : 101
+The item with id : 515 has been added to the orderId: 107
+
+The item with id : 503 has been added to the orderId: 107
+
+The order with id 107  has been shipped by the logistic Partner 15002
+
+
+The order of buyer with id : 17022 has been initialized with number : 102
+The item with id : 524 has been added to the orderId: 108
+
+The item with id : 522 has been added to the orderId: 108
+
+The order with id 108  has been shipped by the logistic Partner 15009
+
+
+The order of buyer with id : 17022 has been initialized with number : 103
+There is no buyer with id: 1703434
+
+The item with id 51543443 is not in the system 
+
+The item with id : 515 has been added to the orderId: 109
+
+The item with id : 516 has been added to the orderId: 109
+
+The item with id : 518 has been added to the orderId: 109
+
+The item with id : 520 has been added to the orderId: 109
+
+The item with id : 523 has been added to the orderId: 109
+
+The item with id : 525 has been added to the orderId: 109
+
+The order with id 4343  has been shipped by the logistic Partner 15010
+The order with id 109  has been shipped by the logistic Partner 15010
+
+
+
+The order of buyer with id : 17022 has been initialized with number : 104
+The item with id : 505 has been added to the orderId: 110
+
+The item with id : 506 has been added to the orderId: 110
+
+There is no logisticPartner with id 154455
+The order with id 110  has been shipped by the logistic Partner 15002
+
+
+*********************************Details of order**************************************************************************
+OrderId : 101
+Order date : Sun May 08 00:00:00 AST 3898
+Buyer Id :	17001		Buyer name :	Moukhled_AlOutaibi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+*********************************Details of order**************************************************************************
+OrderId : 102
+Order date : Sun May 08 00:00:00 AST 3898
+Buyer Id :	17001		Buyer name :	Moukhled_AlOutaibi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+*********************************Details of order**************************************************************************
+OrderId : 103
+Order date : Sun May 08 00:00:00 AST 3898
+Buyer Id :	17001		Buyer name :	Moukhled_AlOutaibi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+********************************* Seller's Items**************************************************************************
+Seller Id :			16001			Seller name :			Ali_Alghamdi
+------------------------------------------------------------------------------------------------------------
+ ItemIdt			Item name			In stock			Price
+------------------------------------------------------------------------------------------------------------
+
+********************************* Seller's Items**************************************************************************
+Seller Id :			16002			Seller name :			Salman_Turki
+------------------------------------------------------------------------------------------------------------
+ ItemIdt			Item name			In stock			Price
+------------------------------------------------------------------------------------------------------------
+
+**********************************The records of the transactions of seller************************************************
+**********************************The records of the transactions of seller************************************************
+********************************* Seller's Items**************************************************************************
+Seller Id :			16003			Seller name :			Ghazi_Alqahtani
+------------------------------------------------------------------------------------------------------------
+ ItemIdt			Item name			In stock			Price
+------------------------------------------------------------------------------------------------------------
+
+**********************************The records of the transactions of seller************************************************
+*********************************Details of order**************************************************************************
+OrderId : 107
+Order date : Tue Jan 14 00:00:00 AST 3896
+Buyer Id :	17022		Buyer name :	Ibrahim_AlHamaidi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+*********************************Details of order**************************************************************************
+OrderId : 108
+Order date : Tue Jan 14 00:00:00 AST 3896
+Buyer Id :	17022		Buyer name :	Ibrahim_AlHamaidi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+*********************************Details of order**************************************************************************
+OrderId : 110
+Order date : Tue Jan 14 00:00:00 AST 3896
+Buyer Id :	17022		Buyer name :	Ibrahim_AlHamaidi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+**********************************The records of the transactions of buyer************************************************
+**********************************The records of the transactions of buyer************************************************
+**********************************The records of the transactions of buyer************************************************
+*********************************Details of order**************************************************************************
+OrderId : 104
+Order date : Sun Sep 04 00:00:00 AST 3898
+Buyer Id :	17018		Buyer name :	Fatima_AlYassin
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+**********************************The records of the transactions of seller************************************************
+*********************************Details of order**************************************************************************
+OrderId : 105
+Order date : Sun Sep 04 00:00:00 AST 3898
+Buyer Id :	17018		Buyer name :	Fatima_AlYassin
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+*********************************Details of order**************************************************************************
+OrderId : 106
+Order date : Sun Sep 04 00:00:00 AST 3898
+Buyer Id :	17018		Buyer name :	Fatima_AlYassin
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
+********************************* Seller's Items**************************************************************************
+Seller Id :			16004			Seller name :			Hamza_Jalal
+------------------------------------------------------------------------------------------------------------
+ ItemIdt			Item name			In stock			Price
+------------------------------------------------------------------------------------------------------------
+
+**********************************The records of the transactions of seller************************************************
+********************************* Seller's Items**************************************************************************
+Seller Id :			16005			Seller name :			Ameer_Bandar
+------------------------------------------------------------------------------------------------------------
+ ItemIdt			Item name			In stock			Price
+------------------------------------------------------------------------------------------------------------
+
+*********************************Details of order**************************************************************************
+OrderId : 109
+Order date : Tue Jan 14 00:00:00 AST 3896
+Buyer Id :	17022		Buyer name :	Ibrahim_AlHamaidi
+Seller Id :	
+------------------------------------------------------------------------------------------------------------
